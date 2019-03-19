@@ -4,6 +4,7 @@ import java.util.*;
 
 /**
  * target problem url：https://leetcode-cn.com/problems/two-sum/
+ * detail sovle ways:https://leetcode-cn.com/articles/two-sum/
  */
 public class TwoSumTotal {
 
